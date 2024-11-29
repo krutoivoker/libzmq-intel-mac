@@ -1,2 +1,1 @@
-4.3.5
---disable-perf --without-docs
+Compiled with: --disable-perf --without-docs
